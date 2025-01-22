@@ -1,2 +1,3 @@
-# figma-plugins-collection
+# Figma Plugins Collection
+
 A collection of my favorite Figma plugins, sorted into Free and Premium. Perfect for boosting your design workflow and finding new tools to try!

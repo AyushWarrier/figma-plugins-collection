@@ -47,6 +47,6 @@ I'm building this repository to help designers like you discover the best Figma 
 
 ## Other Ways to Contribute
 
-- **Suggest Plugins**: If you’re not familiar with GitHub, feel free to open an issue and share the plugin name and link.  
+- **Suggest Plugins**: If you’re unfamiliar with GitHub, open an issue and share the plugin name and link.  
 - **Improve Descriptions**: If you think one of the descriptions could be better, don’t hesitate to suggest changes!  
 - **Spread the Word**: Share this repository with your friends and fellow designers to make it even more valuable.

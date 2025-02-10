@@ -17,6 +17,7 @@
 | 9      | [Figmotion](https://www.figma.com/community/plugin/733025261168520714/figmotion)                                 | Brining motion to your Figma designs.                       |
 | 10     | [Beautiful Shadows](https://www.figma.com/community/plugin/1068595505353552645/beautiful-shadows)                | Create smooth and beautiful shadows.                        |
 | 11     | [Illustrations](https://www.figma.com/community/plugin/781441863578182316/illustrations)                         | Free Popular Illustration libraries for everyone.           |
+| 12     | [Dark Mode Magic](https://www.figma.com/community/plugin/834062945643616879/dark-mode-magic)                     | Transform your design into Dark mode automatically.         |
 
 ---
 

@@ -25,13 +25,13 @@
 
 ## 💎 Premium Plugins
 
-| Sr. No | Name                                                                                                          | Description                                                                        |
-|--------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| 1      | [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/breakpoints)                          | Create responsive designs with advanced breakpoints.                               |
-| 2      | [Charts](https://www.figma.com/community/plugin/731451122947612104/charts)                                    | Create dynamic and customizable charts.                                            |
-| 3      | [Figmoji](https://www.figma.com/community/plugin/736612173445813953/figmoji)                                  | Add high-quality Apple-style emojis to your designs.                               |
-| 4      | [Artboard Mockups](https://www.figma.com/community/plugin/750673765607708804/artboard-mockups)                | Generate device mockups for your designs.                                          |
-| 5      | [Tokens Studio for Figma](https://www.figma.com/community/plugin/843461159747178978/tokens-studio-for-figma)  | Manage design tokens for colors, typography, and spacing with ease.                |
+| Sr. No | Name                                                                                                            | Description                                                                        |
+|--------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| 1      | [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/breakpoints)                            | Create responsive designs with advanced breakpoints.                               |
+| 2      | [Charts](https://www.figma.com/community/plugin/731451122947612104/charts)                                      | Create dynamic and customizable charts.                                            |
+| 3      | [Figmoji](https://www.figma.com/community/plugin/736612173445813953/figmoji)                                    | Add high-quality Apple-style emojis to your designs.                               |
+| 4      | [Artboard Mockups](https://www.figma.com/community/plugin/750673765607708804/artboard-mockups)                  | Generate device mockups for your designs.                                          |
+| 5      | [Tokens Studio for Figma](https://www.figma.com/community/plugin/843461159747178978/tokens-studio-for-figma)    | Manage design tokens for colors, typography, and spacing with ease.                |
  
 ## How to Contribute
 

@@ -20,9 +20,9 @@
 | 12     | [Dark Mode Magic](https://www.figma.com/community/plugin/834062945643616879/dark-mode-magic)                      | Transform your design into Dark mode automatically.                       |
 | 13     | [Neumorphism](https://www.figma.com/community/plugin/810863251895788520/neumorphism)                              | Create beautiful neumorphistic designs in seconds.                        |
 | 13     | [Simple Sort](https://www.figma.com/community/plugin/931578032226522167/simple-sort)                              | Automatically applies a basic structure to your component sets.           |
-| 14     | [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/feather-icons)                                                         | Open Source Library for Icons in Figma.                                   |
-| 15     | [Heroicons](https://www.figma.com/community/plugin/1146185727520661419/heroicons-icon-set-by-iconduck)                                           | Heroicons is an open-source icon library of 452 icons.                    |
-| 16     | [Foundation](https://www.figma.com/community/plugin/1024452006068794933/foundation-color-generator)                                              | Create Color Palettes based on great Design Systems.                      |
+| 14     | [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/feather-icons)                          | Open Source Library for Icons in Figma.                                   |
+| 15     | [Heroicons](https://www.figma.com/community/plugin/1146185727520661419/heroicons-icon-set-by-iconduck)            | Heroicons is an open-source icon library of 452 icons.                    |
+| 16     | [Foundation](https://www.figma.com/community/plugin/1024452006068794933/foundation-color-generator)               | Create Color Palettes based on great Design Systems.                      |
 
 ---
 
